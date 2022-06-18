@@ -229,3 +229,10 @@ let dateExemp = MyDate()
 
 dateExemp.addSecondInDate(999)
 dateExemp.printDateAndTime()
+
+
+
+
+
+
+    
